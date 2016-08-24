@@ -12,18 +12,18 @@ public class Utils {
 	public static String post_driver = "org.postgresql.Driver";
 	public static String post_url  ="jdbc:postgresql://192.168.140.200:5432/keyword_2.0?useSSL=false&characterEncoding=UTF-8";
 	public static String post_user = "postgres";
-	public static String post_password = "xlive911";
+	public static String post_password = "";
 
 	public static String mysql_driver = "com.mysql.jdbc.Driver";
 	public static String mysql_url = "jdbc:mysql://192.168.140.200:3306/keyword2.0?useSSL=false&characterEncoding=UTF-8";
 	public static String mysql_user = "root";
-	public static String mysql_password = "ekgdebs";
+	public static String mysql_password = "";
 
 	
 	public static String wxb_driver = "com.mysql.jdbc.Driver";
 	public static String wxb_url  ="jdbc:postgresql://111.202.27.164:3306/wx?useSSL=false&characterEncoding=UTF-8";
 	public static String wxb_user = "root";
-	public static String wxb_password = "ekgdebs";
+	public static String wxb_password = "";
 	
 	/**
 	 * 获取当天日期
